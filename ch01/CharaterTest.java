@@ -1,0 +1,17 @@
+package ch01;
+
+public class CharaterTest {
+	public static void main(String[] args) {
+		char ch ='A';
+		System.out.println(ch);
+		System.out.println((int)ch);
+		
+		char ch2 = 66;
+		System.out.println(ch2);
+		System.out.println((char)ch2);
+				
+		int ch3 = 67;
+		System.out.println(ch3);
+		System.out.println((char)ch3);
+	}
+}
